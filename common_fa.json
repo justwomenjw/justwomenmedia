@@ -1,0 +1,30 @@
+{
+  "page.title": "Just Women — برای تغییر اجتماعی",
+  "brand.name": "JUST WOMEN",
+  "brand.tagline": "می‌تواند جامعه را تغییر دهد",
+
+  "nav.home": "خانه",
+  "nav.about": "دربارهٔ ما",
+  "nav.media": "رسانه و روایت‌ها",
+  "nav.education": "آموزش و توانمندسازی",
+  "nav.team": "به تیم ما بپیوندید",
+  "nav.story": "روایت‌تان را شریک سازید",
+  "nav.partner": "همکاران و پشتیبانی",
+  "nav.donate": "حمایت مالی",
+  "nav.contact": "تماس",
+
+  "search.label": "جستجوی روایت‌ها",
+  "search.placeholder": "جستجو بر اساس موضوع یا عنوان…",
+  "search.empty": "بخشی مطابق جستجو یافت نشد. کلمهٔ دیگری امتحان کنید.",
+
+  "footer.explore": "کاوش",
+  "footer.connect": "ارتباط",
+  "footer.follow": "ما را دنبال کنید",
+  "footer.share": "اشتراک",
+  "footer.copyright": "© ۲۰۲۶ Just Women",
+  "footer.backtotop": "بازگشت به بالا ↑",
+
+  "share.copied": "پیوند صفحه کپی شد.",
+  "share.failed": "اشتراک‌گذاری در اینجا در دسترس نیست.",
+  "share.copyFailed": "کپی در اینجا در دسترس نیست."
+}
